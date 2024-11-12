@@ -62,10 +62,12 @@ header {
 	padding: 15px;
 	background-color: darkgreen;
 	color: white;
+	text-align: center;
+	margin-bottom: 15px;
 }
 
 main {
-
+	padding: auto;
 }
 
 p {
