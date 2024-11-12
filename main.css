@@ -81,5 +81,6 @@ p {
 }
 
 #how-does-it-work, #influence, #joke {
-
+	font-style: italic;
+	margin-bottom: 2em;
 }
