@@ -1,6 +1,8 @@
 /*
 	Reset Selector - don't remove this!
 */
+/* Google Fonts*/
+@inport url('https://fonts.googleapis.com/css?family=Tangerine');
 
 * {
 	margin: 0;
@@ -10,6 +12,7 @@
 /* 
 	You can modify everything after this point.
 */
+
 
 a:link, a:visited {
 	color: blue;
