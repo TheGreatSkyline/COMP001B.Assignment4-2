@@ -3,6 +3,7 @@
 */
 /* Google Fonts*/
 @inport url('https://fonts.googleapis.com/css?family=Tangerine');
+@import url('https://fonts.googleapis.com/css?family=roboto');
 
 * {
 	margin: 0;
@@ -34,11 +35,11 @@ body {
 }
 
 code {
-	
+	font-family: roboto, monospace;	
 }
 
 h1, h2, h3 {
-
+	
 }
 
 h1 {
