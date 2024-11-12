@@ -27,7 +27,10 @@ a:focus, a:hover {
 }
 
 body {
-
+	font-family: Tangerine, sans-serif;
+	font-size: medium;
+	line-height: 2rem;
+	margin: 20px;
 }
 
 code {
